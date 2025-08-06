@@ -5,19 +5,19 @@
 <h2 align="center"><b>Studied Bachelor of Technology (B.Tech.) Department of Computer Science And Engineering (CSE) at Swami Vivekananda University , Barrackpore</b></h2> 
 <p align="center">  
     <a href="https://www.youtube.com" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Raju Chowdhury" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Sk Sahid Ali" />
  </a> 
  <a href="https://www.linkedin.com/in/sk-sahid-ali" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raju Chowdhury"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sk Sahid Ali"/>
  </a>
  <a href="https://github.com/Sahid-Ali" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Raju Chowdhury" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sk Sahid Ali" />
  </a>
  <a href="https://twitter.com" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/-sahid___ali_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Raju Chowdhury" />
+ <a href="https://www.instagram.com/_sahid___ali_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Sk Sahid Ali" />
  </a> 
     <a href="#" target="blank">
   <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
@@ -71,7 +71,7 @@
 
 <a href = "https://www.linkedin.com/in/sk-sahid-ali" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/-sahid___ali_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/_sahid___ali_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://www.youtube.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
